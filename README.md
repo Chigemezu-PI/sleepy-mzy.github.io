@@ -11,8 +11,8 @@ Junior coder, Web and App developer.
 * 🧠  I'm learning Web Design with HTML and CSS
 * 🤝  I'm open to collaborating on Internships
 
-<a href="https://www.twitter.com/sleepy_mzy" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/sleepy_mzy?logo=twitter&style=for-the-badge&color=0891b2&labelColor=22272e"
+<a href="https://www.twitter.com/" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge&color=0891b2&labelColor=22272e"
 /></a>
 
 ### Skills
@@ -27,7 +27,7 @@ src="https://img.shields.io/twitter/follow/sleepy_mzy?logo=twitter&style=for-the
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/sleepy-mzy" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/sleepy_mzy" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.github.com/sleepy-mzy" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
